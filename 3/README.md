@@ -1,5 +1,7 @@
 # processando_e_transformado_dados_com_powerBI
-2º Projeto de desafio do Módulo de Power BI do Bootcamp Santander 2023 em Ciência de Dados com Python - OUT 2023
+Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Power BI
+
+Bootcamp 2024 NTT DATA - Engenharia de Dados com Python
 
 Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Power BI
 
